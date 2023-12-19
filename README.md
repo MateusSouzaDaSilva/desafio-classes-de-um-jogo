@@ -27,11 +27,10 @@ Por fim criei um herói de cada classe dentro do array herois e executei cada um
 
 O herói Cleber tem 32 anos e pertence a classe mago.
 Em suas aventuras já derrotou um total de 15 monstros, por isso pertence ao ranking Prata
----------------------------------------
+
 O mago Cleber atacou usando magia
----------------------------------------
+
 O herói Matias tem 23 anos e pertence a classe guerreiro.
 Em suas aventuras já derrotou um total de 30 monstros, por isso pertence ao ranking Ouro
----------------------------------------
+
 O guerreiro Matias atacou usando espada
----------------------------------------
